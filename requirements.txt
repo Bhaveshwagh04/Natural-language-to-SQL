@@ -1,0 +1,8 @@
+pandas 
+numpy
+langchain-community
+langchain-ollama
+streamlit
+plotly-express
+matplotlib
+seaborn
